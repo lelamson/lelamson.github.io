@@ -1,0 +1,19 @@
+{
+  "name": "lelamson.github.io",
+  "version": "1.0.0",
+  "description": "Lamson's personal website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lelamson/lelamson.github.io.git"
+  },
+  "author": "Lamson Le",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lelamson/lelamson.github.io/issues"
+  },
+  "homepage": "https://github.com/lelamson/lelamson.github.io"
+}
